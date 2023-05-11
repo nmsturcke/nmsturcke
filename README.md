@@ -10,7 +10,7 @@
         <h3 align="center"><a href="https://cellule.nickyux.com"> <img width="40px" align="center" valign="center" src="https://cellule.nickyux.com/img/transparent.png" /> Cellule Bot </a></h3>
     </li>
     <li>
-        <h3 align="center"><a href="https://elitescrims.com"> <img width="40px" align="center" valign="center" src="https://elitescrims.com/img/logo.png" /> Elite Scrims </a></h3>
+        <h3 align="center"><a href="https://elitescrims.com"> <img width="40px" align="center" valign="center" src="https://elitescrims.com/img/logos/logoshadow.png" /> Elite Scrims </a></h3>
     </li>
 </ul>
 
